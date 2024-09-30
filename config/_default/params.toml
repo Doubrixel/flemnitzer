@@ -31,6 +31,10 @@ cardView = false
 cardViewScreenWidth = true
 layoutBackgroundBlur = false
 
+[buymeacoffee]
+identifier = "flemnitzer"
+globalWidget = true
+
 [article]
 showDate = true
 showViews = false
@@ -102,7 +106,5 @@ cardViewScreenWidth = false
 [umamiAnalytics]
 
 [selineAnalytics]
-
-[buymeacoffee]
 
 [verification]
