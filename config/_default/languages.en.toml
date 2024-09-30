@@ -1,0 +1,17 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "flemnitzer."
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[params.author]
+headline = "Programmer, Chicken Breeder, EDH-Player"
+image = "profile.png"
+name = "Florian Lemnitzer"
+email = "florian@lemnitzer.de"
