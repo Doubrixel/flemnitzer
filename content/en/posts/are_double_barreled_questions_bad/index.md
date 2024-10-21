@@ -75,3 +75,6 @@ It is likely that the double-barreled question my professor criticized is not ne
 My professor was right once more.
 
 ![meme](973a62.jpg)
+
+---
+<iframe src="https://giphy.com/embed/hXMGQqJFlIQMOjpsKC" width="100" height="100" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> Huge thank you to Benito, who bought me two coffees!
