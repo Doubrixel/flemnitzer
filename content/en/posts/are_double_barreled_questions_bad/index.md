@@ -45,10 +45,11 @@ In regard to the specificity of our questions, there are two ways in which we ca
 1. We ask too specific. Maybe the customer is satisfied with the aspect we asked for but has some valuable feedback about an aspect we didn't ask for. In our example, if we ask whether the staff was friendly, we might miss on the point that they touch the food with unwashed hands.
 2. We ask too broad. We will find out that the customer is unhappy about something related to our staff. But we will not know that they are friendly and attentive. And we don't learn about the unwashed hands either.
 
-To find out about the unwashed hands, we need a freetext answer. Freetext answers have the potential of revealing aspects we didn't come up with when creating the survey. Instead of using our double-barreled question, we could ask:\
-How satisfied were you with our employees? [ :) ] [ :( ] \
+To find out about the unwashed hands, we need a freetext answer. Freetext answers have the potential of revealing aspects we didn't come up with when creating the survey. Instead of using our double-barreled question, we could ask:
+```
+How satisfied were you with our employees? [ :) ] [ :( ] 
 If unsatisfied, why? ____________________________________
-
+```
 There are two disadvantages about freetext answers:
 1. They are less likely to be answered compared to checkboxes
 2. They are more difficult to evaluate
